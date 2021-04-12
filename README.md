@@ -15,7 +15,7 @@ designed and coded by Youness
 ├── css/
 |   ├── tailwind.css
 │
-├── public/
+├── docs/
     |── index.html
     ├── build/
         ├── images/               * source of images
@@ -52,7 +52,7 @@ npm install
 ### Whenever you want to run this project simply run **live-server public**
 
 ```
-live-server public
+live-server docs
 ```
 
 Celebrate.
